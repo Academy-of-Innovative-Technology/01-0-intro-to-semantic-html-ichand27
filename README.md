@@ -25,3 +25,4 @@ Now that you've began to use semantic HTML5 tags, build the structure of a blog 
 1. Target the `<main>` section in JavaScript, and save it to a variable.
 2. Create an array called posts, and create 3 objects inside. Your objects should be `image`, `title`, and `post` (this should sound similar...)
 3. Create a for of loop that loops through your array of objects. Using insertAdjacentHTML, post the data from the objects **in the appropriate semantic HTML tag** with the `image`, `title`, and `post`.
+posts.forEach
